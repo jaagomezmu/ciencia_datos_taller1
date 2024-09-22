@@ -11,11 +11,16 @@ Este repositorio contiene el desarrollo del Taller 1 de la asignatura de Ciencia
 
 
 
-.```
-├── data
-│   └── listings.csv.gz
-├── README.md
-├── requirements.txt
-├── resultados.docx
-├── taller1_gomez_javier.ipynb
 ```
+.  
+├── data  
+│   └── listings.csv.gz  
+├── README.md  
+├── requirements.txt  
+├── resultados.docx  
+├── taller1_gomez_javier.ipynb  
+```
+
+## Ejecutar
+
+Para ejecutar el notebook, instale los requerimientos en su ambiente, o directamente desde el notebook con `! pip install -r requirements.txt`
